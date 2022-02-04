@@ -1,5 +1,5 @@
 {
-    "token": "OTM3MjM1MjUwNzMwNDAxODUy.YfYyWA.UK6SmxjUQr9XBmQfwri8I7Ypp6U",
+    "token": "Your Bot TOKEN here",
     "prefix": "?",
     "color": {
         "positive": "GREEN",
@@ -7,5 +7,5 @@
         "neutral": "BLUE",
         "warn": "YELLOW"
     },
-    "ownerId": "936164423872151573"
+    "ownerId": "Owner id here"
 }
