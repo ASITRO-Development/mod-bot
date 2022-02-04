@@ -4,7 +4,7 @@ Mod Bot For Starters
 This is an Starters it will be soon updated more.
 
 # Edit config.json
-``json
+```json
 {
     "token": "Your Bot TOKEN here",
     "prefix": "?",
