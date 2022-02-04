@@ -16,7 +16,7 @@ client.aliases = new Collection();
 client.settings = { prefix, color, ownerId }
 
 for(let handler of  ["slash_command", "prefix_command", "event"]) require(`./handlers/${handler}`)(client);
-
+const keepalive = require("./lamo.js")
 
 
 const asitroStatus = [
@@ -56,4 +56,5 @@ console.log(`
 ###### #    # #    #  ####  
 `)
 
+keepalive();
 client.login(token)
